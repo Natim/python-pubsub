@@ -5,6 +5,13 @@
 [1]: https://pypi.org/project/google-cloud-pubsub/#history
 
 
+### [2.1.1](https://www.github.com/googleapis/python-pubsub/compare/v2.1.0...v2.1.1) (2020-09-28)
+
+
+### Documentation
+
+* fix get topic_path in subscriber sample ([#210](https://www.github.com/googleapis/python-pubsub/issues/210)) ([7228f6c](https://www.github.com/googleapis/python-pubsub/commit/7228f6c9a4c050bf22bb4bc3582b89b04eaa8702))
+
 ## 2.1.0
 
 09-21-2020 02:19 PDT
